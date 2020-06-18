@@ -1,0 +1,13 @@
+.highlight-post-option {
+  padding: 12px 0;
+}
+.highlight-post-option label,
+.highlight-post-option input {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 2px 0;
+}
+
+.wp-admin .wp-post-highlight {
+  background-color: #fff581 !important;
+}
